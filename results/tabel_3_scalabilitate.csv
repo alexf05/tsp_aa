@@ -1,0 +1,5 @@
+Algoritm,Timp la N=10 (s),Timp la N=500 (s),Factor Crestere
+Nearest Neighbor,0.0000,0.0209,950.7x
+Held-Karp,0.0024,0.0000,0.0x
+2-Opt,0.0001,68.7832,984633.6x
+Simulated Annealing,0.0019,0.0695,37.5x

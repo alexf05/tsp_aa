@@ -1,0 +1,22 @@
+N,Algoritm,Cost,Timp (s)
+10,Nearest Neighbor,3348.38,0.0000
+10,Held-Karp,3232.32,0.0024
+10,2-Opt,3348.38,0.0001
+10,Simulated Annealing,3232.32,0.0019
+15,Nearest Neighbor,3440.01,0.0000
+15,Held-Karp,3018.30,0.1692
+15,2-Opt,3291.05,0.0004
+15,Simulated Annealing,3249.40,0.0021
+20,Nearest Neighbor,4710.62,0.0000
+20,Held-Karp,3910.95,13.3160
+20,2-Opt,4162.95,0.0017
+20,Simulated Annealing,4710.62,0.0026
+50,Nearest Neighbor,7087.36,0.0002
+50,2-Opt,6791.61,0.0345
+50,Simulated Annealing,7087.36,0.0051
+100,Nearest Neighbor,9727.97,0.0008
+100,2-Opt,8422.30,0.2846
+100,Simulated Annealing,9727.97,0.0099
+500,Nearest Neighbor,20489.55,0.0209
+500,2-Opt,17916.99,68.7832
+500,Simulated Annealing,20489.55,0.0695

@@ -1,0 +1,4 @@
+Algoritm,Eroare Medie (%),Eroare Maxima (%)
+Nearest Neighbor,12.04%,20.45%
+2-Opt,3.18%,9.04%
+Simulated Annealing,10.39%,20.45%
