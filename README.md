@@ -122,5 +122,4 @@ Acest proiect a fost realizat în cadrul cursului de **Analiza Algoritmilor** ș
 * **Petreus David-Mihai**
 
 * **Grupa:** 324CA 
-* **Data:** Ianuarie 2026
-* **Instituție:** Facultatea de Automatică și Calculatoare, Universitatea Politehnica din București
+* Ianuarie 2026 Facultatea de Automatică și Calculatoare, Universitatea Politehnica din București
